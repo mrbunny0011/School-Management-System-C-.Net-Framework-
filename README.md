@@ -13,6 +13,11 @@ This is a Windows-based School Management System built using **C# (.NET Framewor
 - 📘 **Add Courses** (Course management)
 - 💵 **Add Student Fee** (Record fee payments)
 - 📄 **Check Student Fee Status** (Track fee payment status)
+- 📅 **Student Attendance by Class** ✅
+  - Select a class
+  - Load students of that class
+  - Mark Present / Absent
+  - Save and manage daily records
 
 ---
 
